@@ -1,0 +1,74 @@
+﻿body {
+}
+.iconbtn1{
+  border: none;
+  outline: none;
+  background-image: url(../images/facebook.png); background-size: 30px;
+  align-content: center;
+  width:30px;
+  height:30px;
+  display: inline-block;
+  background-color:#C2D3EF;
+  border-radius:25px; 
+  -webkit-border-radius: 25px; 
+  -moz-border-radius: 25px;
+  border-style:solid;
+  border-width:2px;
+  border-color:white;
+  cursor: pointer;
+}
+.iconbtn2{
+  border: none;
+  outline: none;
+  background-image: url(../images/twitter.png); background-size: 30px;
+  align-content: center;
+  width:30px;
+  height:30px;
+  display: inline-block;
+  background-color:#C2D3EF;
+  border-radius:25px; 
+  -webkit-border-radius: 25px; 
+  -moz-border-radius: 25px;
+  border-style:solid;
+  border-width:2px;
+  border-color:white;
+  cursor: pointer;
+}
+.iconbtn3{
+  border: none;
+  outline: none;
+  background-image: url(../images/instagram.png); background-size: 30px;
+  align-content: center;
+  width:30px;
+  height:30px;
+  display: inline-block;
+  background-color:#C2D3EF;
+  border-radius:25px; 
+  -webkit-border-radius: 25px; 
+  -moz-border-radius: 25px;
+  border-style:solid;
+  border-width:2px;
+  border-color:white;
+  cursor: pointer;
+}
+.iconbtn4{
+  border: none;
+  outline: none;
+  background-image: url(../images/linkedin.png); background-size: 30px;
+  align-content: center;
+  width:30px;
+  height:30px;
+  display: inline-block;
+  background-color:#C2D3EF;
+  border-radius:25px; 
+  -webkit-border-radius: 25px; 
+  -moz-border-radius: 25px;
+  border-style:solid;
+  border-width:2px;
+  border-color:white;
+  cursor: pointer;
+}
+.iconbtn1:hover{background-image: url(../images/facebook_hov.png); background-size: 30px; border-color:black;}
+.iconbtn2:hover{background-image: url(../images/twitter_hov.png); background-size: 30px; border-color:black;}
+.iconbtn3:hover{background-image: url(../images/instagram_hov.png); background-size: 30px; border-color:black;}
+.iconbtn4:hover{background-image: url(../images/linkedin_hov.png); background-size: 30px; border-color:black;}
